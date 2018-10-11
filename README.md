@@ -3,7 +3,7 @@ cryptocurrency that is inspired by SolarCoin but tries to be better than it
 
 # Acknowledgements
 
-I am inspired to start this project as a result of discussions with a fellow denizen of the internet (gloryhunters@protonmail.com).
+I am inspired to start this project as a result of discussions with a fellow netizen (gloryhunters@protonmail.com).
 
 # Motivation
 - Help solve the most pressing problem of our times by providing a massive incentive for renewable energy generation
