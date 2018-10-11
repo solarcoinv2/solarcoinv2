@@ -29,7 +29,7 @@ Design Phase
 
 7. People transfer SolarCoinV2 from their accounts to others' by sending digitally signed messages signed with their private key to all 7 servers to credit SolarCoinV2 from their account to the public keys of another account. All 7 servers adjust the account balances accordingly.
 
-8. No need of mining, PoW, PoS and all such electric-power-hungry complex and troubling concepts. People can check all 7 servers (they can connect to these servers over https and these servers will use the usual SSL certificates that we use to trust netbanking websites etc.)  They must send a request to check their bank balance that is digitally signed with their private key. Only then will the servers respond with information about their bank balance. This will help hackers from discovering which public key has how much balance. 
+8. No need of mining, PoW, PoS and all such electric-power-hungry complex and troubling concepts. People can check all 7 servers (they can connect to these servers over https and these servers will use the usual SSL certificates that we use to trust netbanking websites etc.)  In order to check one's bank balance, a person must send a request that is digitally signed with their private key, to all 7 servers. Only then will the servers respond with information about their bank balance. This will help hackers from discovering that which public key has how much balance. 
 
 9. Just like one person can have multiple bank accounts, governments may offer this facility to their citizens so that for security reasons, any one account does not contain too much money.
 
