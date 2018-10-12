@@ -7,8 +7,7 @@ I am inspired to start this project as a result of discussions with a fellow net
 
 # Motivation
 - Help solve the most pressing problem of our times by providing a massive incentive for renewable energy generation
-- Demystify crytocurrency and make it a practical reality
-
+- Demystify crytocurrency and make it widely used
 # Current Status
 
 Design Phase
