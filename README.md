@@ -6,8 +6,8 @@ cryptocurrency that is inspired by SolarCoin but tries to be better than it
 I am inspired to start this project as a result of discussions with a fellow netizen (gloryhunters@protonmail.com).
 
 # Motivation
-- Help solve the most pressing problem of our times by providing a massive incentive for renewable energy generation
-- Demystify crytocurrency and make it widely used
+- Provide a strong monetary incentive for renewable energy generation
+- Demystify cryptocurrency and make it widely used
 # Current Status
 
 Design Phase
