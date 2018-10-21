@@ -26,7 +26,7 @@ Design Phase
 
 6. Governments are responsible to purchase renewable energy from their citizens. The governments must with great integrity and precision, ensure that the energy was indeed generated in a renewable manner and is of the said quantity. In return for the energy, the governments credit the account on all 7 servers with SolarCoinV2. The message is digitally signed by the crediting government. Governments from other countries and from the UN can act as watchdogs in this process of renewable energy purchase from the public.
 
-7. People transfer SolarCoinV2 from their accounts to others' by sending digitally signed messages (signed with their private key) to all 7 servers, to credit SolarCoinV2 from their account to the public keys of another account. All 7 servers adjust the account balances accordingly.
+7. People transfer SolarCoinV2 from their accounts to others' by sending digitally signed messages (signed with their private key) to all 7 servers, to credit SolarCoinV2 from their accounts to other accounts. The public keys of the sender and receiver account must be mentioned in each message. All 7 servers adjust the account balances accordingly.
 
 8. No need of mining, PoW, PoS and all such electric-power-hungry activities. People can check all 7 servers (they can connect to these servers over https and these servers will use the usual SSL certificates that we use to trust netbanking websites etc.) In order to check one's bank balance, a person must send a request that is digitally signed with their private key, to all 7 servers. Only then will the servers respond with information about their bank balance. This will help hackers from discovering that which public key has how much balance. 
 
