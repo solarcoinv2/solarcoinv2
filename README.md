@@ -1,5 +1,5 @@
 # solarcoinv2
-cryptocurrency that is inspired by SolarCoin but tries to be better than it
+cryptocurrency that is inspired by SolarCoin and tries to be better than it
 
 # Acknowledgements
 
