@@ -1,9 +1,11 @@
 # solarcoinv2
 cryptocurrency that is inspired by [SolarCoin](https://solarcoin.org/) and tries to be better than it
 
+<!--
 # Acknowledgements
 
 I am inspired to start this project as a result of discussions with a fellow netizen (gloryhunters@protonmail.com).
+-->
 
 # Motivation
 - Provide a strong monetary incentive for renewable energy generation
