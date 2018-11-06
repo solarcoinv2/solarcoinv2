@@ -18,7 +18,7 @@ Design Phase
 
 # Design
 
-1. Unlike the stated aims of many cryptocurrencies, SolarCoinV2 embraces and infact depends on government support, and aims for recognition from the UN (United Nations). It is foolish to 'fight' with the government. Rather it requests the governments to perform a few very simple and specific duties, with great integrity.
+1. Unlike the stated aims of many cryptocurrencies, SolarCoinV2 embraces and infact depends on government support, and aims for recognition from the UN (United Nations). It requests the governments of all countries to perform a few very simple and specific duties, with great integrity.
 
 2. Any renewable energy is convertible into SolarCoinV2. 1MWh of renewable energy = 1 SolarCoinV2 for all time to come.
 
