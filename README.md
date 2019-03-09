@@ -1,8 +1,8 @@
 # solarcoinv2
-A global currency backed by Renewable Energy
+A global cryptocurrency backed by Renewable Energy
 
 # Acknowledgements
-This is currency that is inspired by [SolarCoin](https://solarcoin.org/) and tries to be better than it
+This concept is inspired by [SolarCoin](https://solarcoin.org/), and tries to build further on this concept.
 
 <!--
 I am inspired to start this project as a result of discussions with a fellow netizen (gloryhunters@protonmail.com).
@@ -10,7 +10,7 @@ I am inspired to start this project as a result of discussions with a fellow net
 
 # Motivation
 - Provide a strong monetary incentive for renewable energy generation
-- Cure the problems of cryptocurrency
+- Solve the usual problems associated with cryptocurrency
 
 # Current Status
 
@@ -40,7 +40,7 @@ Design Phase
 
 # Roadmap
 
-- Solicit feedback
+- Solicit feedback, especially from Government representatives
 - Create a technical proof of concept
 
 # Author Anonymity
