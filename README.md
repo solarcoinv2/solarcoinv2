@@ -45,5 +45,5 @@ Design Phase
 
 # Author Anonymity
 
-Project authors depend on the job market for their income and so requests that their wish for confidentiality be respected. You can use GitHub issues to communicate with us.
+Project authors depend on the job market for their income and so request that their wish for confidentiality be respected. You can use GitHub issues to communicate with us.
 
